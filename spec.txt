@@ -1,10 +1,3 @@
-                         Project 1--EECS 370 (Fall 2017)
-
-                                Worth: 100 points
-                     Assigned: Tuesday, September 5th, 2017
-              Part 1a Due: 11:59pm, Wednesday, September 27th, 2017
-           Parts 1s & 1m Due: 11:59pm, Wednesday, October 11th, 2017
-
 *****
 
 1. Purpose
